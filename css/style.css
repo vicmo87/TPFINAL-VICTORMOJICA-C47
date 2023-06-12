@@ -39,7 +39,7 @@ li,H1,h2,h3,h4,p,label{color: aliceblue;
     font-size: 90%; 
 }  
 body{
-    background-image:url(/img/fondo.jpg);
+    background-image:url(../img/fondo.jpg);
     background-position-x:center ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -48,8 +48,7 @@ body{
 nav {
     background-color: transparent;
     width: 100%;
-    position: ;
-    z-index: 100;
+     z-index: 100;
   }
   
   nav {
@@ -125,7 +124,7 @@ text-align: justify;}
 }
  
 button {
-    background-color: #d15f1d; /* Green */
+    background-color: #d15f1d; 
     border: none;
     border-radius: 8px;
     color: white;
